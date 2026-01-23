@@ -1,0 +1,1 @@
+export { WeightProgressionChart } from "./WeightProgressionChart";
